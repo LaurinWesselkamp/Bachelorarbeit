@@ -136,4 +136,5 @@ Erstelle mir eine Multiple-Choice-Frage zur Folie 7 aus dem Foliensatz.
 ## Abschließender Nutzungshinweis des Workbooks
 Damit du dich schnell an die Prompt Nutzung gewöhnst, hier einmal ein Beispiel, wie die Benutzung gleich aussehen soll. Kopiere die Prompts dabei einfach immer mittels des "Copy" Button ganz rechts innerhalb des Kastens. Setzte es in des Promptfeld des ChatBots ein und passe es an. Anschließend schicke es ab.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z_QMHP12ocI" frameborder="0" allowfullscreen></iframe>
+[![Video ansehen](https://img.youtube.com/vi/z_QMHP12ocI/0.jpg)](https://youtu.be/z_QMHP12ocI)
+
