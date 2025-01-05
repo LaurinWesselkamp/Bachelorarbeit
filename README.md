@@ -17,7 +17,7 @@ Im Folgenden werden kurz und bündig passende Prompt-Techniken aus der Forschung
 ## 2.1 Prompt-Techniken aus der Forschung
 
 
-### Lass uns Schritt für Schritt nachdenken
+### 2.1 Lass uns Schritt für Schritt nachdenken
  Sprachmodelle machen Fehler. Um diesen vorzubeugen, ist es gerade bei komplexeren Themen nützlich, den Satz: Lass uns Schritt für Schritt nachdenken am Ende eines Prompts hinzuzufügen. Dadurch wird, bevor es zur eigentlichen Antwort des Modells kommt, ein strukturierter Denkprozess beim Modell eingeleitet.
 
 *Beispiel*:
@@ -38,10 +38,7 @@ Antwort: - Überschrift: Folienüberschrift
          - Thema: Max. 1-2 Stichpunkte zu dieser Folie
          - Schwierigkeitseinschätzung: 1-100
 ```
-
 ---
-
-## 2.2 Spezifischere praxisnähere Prompttechniken
 
 ### Hinweise zum Vorgehen bereitstellen
 
@@ -131,7 +128,7 @@ Erstelle mir eine Multiple-Choice-Frage zur Folie 7 aus dem Foliensatz.
 ```
 
 ## Abschließender Nutzungshinweis des Workbooks
-Damit du dich schnell an die Prompt Nutzung gewöhnst, hier einmal ein Beispiel, wie die Benutzung gleich aussehen soll. Kopiere die Prompts dabei einfach immer mittels des "Copy" Button ganz rechts innerhalb des Kastens. Setzte es in des Promptfeld des ChatBots ein und passe es an. Anschließend schicke es ab.
+Damit du dich schnell an die Prompt Nutzung gewöhnst, hier einmal ein Beispiel, wie die Benutzung gleich aussehen soll. Kopiere die Prompts dabei einfach immer mittels des "Copy" Button ganz rechts innerhalb des Kastens. Setzte es in des Promptfeld des ChatBots ein, passe es an und schicke es ab.
 
 [![Video ansehen](https://img.youtube.com/vi/z_QMHP12ocI/0.jpg)](https://youtu.be/z_QMHP12ocI)
 
