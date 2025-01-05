@@ -72,7 +72,7 @@ Frage: Frage formulieren
     -
     -
 
-Beginne mit Frage 1 un setzte das Schema anschließend so fort.
+Beginne mit Frage 1 und setzte das Schema anschließend so fort.
 ```
 ---
 
