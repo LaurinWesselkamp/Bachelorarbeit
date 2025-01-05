@@ -7,21 +7,18 @@
   1. Lies dieses Dokument zunächst sorgfältig durch.
   2. Starte anschließend die Vorbereitungsphase.
   3. Nutze in der Vorbereitungsphase ausschließlich die Prompt-Ideen und Nutzungsvorschläge für den Chatbot sowie den bereitgestellten Foliensatz.
-  4. Starte anschließend den Test.
+  4. Es ist nicht erforderlich, alle Techniken anzuwenden – du kannst dich auch darauf beschränken, eine oder zwei Techniken durchgängig zu nutzen."
+  5. Starte anschließend den Test.
 
 # 2. Prompt-Techniken und Nutzungsvorschläge
 
-Im Folgenden werden kurz und bündig passende Prompt-Techniken aus der Forschung erläutert.
- Anschließend folgen spezifische Affordanzen der Chatbots für die Klausurvorbereitung aus der
- Praxis. Abschließend werden weitere Hinweise zur Benutzung gegeben.
+Im Folgenden werden kurz und bündig passende Prompt-Techniken aus der Forschung erläutert. Anschließend folgen spezifische Affordanzen der Chatbots für die Klausurvorbereitung aus der Praxis. Abschließend werden weitere Hinweise zur Benutzung gegeben.
 
 ## 2.1 Prompt-Techniken aus der Forschung
 
 
 ### Lass uns Schritt für Schritt nachdenken
- Sprachmodelle machen Fehler. Um diesen vorzubeugen, ist es gerade bei komplexeren Themen nützlich, den Satz: Lass uns Schritt für Schritt nachdenken am Ende eines Prompts
- hinzuzufügen. Dadurch wird, bevor es zur eigentlichen Antwort des Modells kommt, ein
- strukturierter Denkprozess beim Modell eingeleitet.
+ Sprachmodelle machen Fehler. Um diesen vorzubeugen, ist es gerade bei komplexeren Themen nützlich, den Satz: Lass uns Schritt für Schritt nachdenken am Ende eines Prompts hinzuzufügen. Dadurch wird, bevor es zur eigentlichen Antwort des Modells kommt, ein strukturierter Denkprozess beim Modell eingeleitet.
 
 *Beispiel*:
 ```text
@@ -44,7 +41,7 @@ Antwort: - Überschrift: Folienüberschrift
 
 ---
 
-## 2.2 Spezifische Affordanzen
+## 2.2 Spezifischere praxisnähere Prompttechniken
 
 ### Hinweise zum Vorgehen bereitstellen
 
