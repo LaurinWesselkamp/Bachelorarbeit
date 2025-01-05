@@ -131,6 +131,7 @@ Versuche dich bei Fragen immer auf den hochgeladenen Foliensatz zu beziehen. Cha
 ```text  
 Erstelle mir eine Multiple-Choice-Frage zur Folie [FOLIENÜBERSCHRIFT] aus dem Foliensatz.
 ```
+---
 
 ### Schemas helfen ChatGPT
 ChatGPT bekommt ein besseres Verständnis von ihrer Anfrage, wenn ihr Prompt klar strukturiert ist. Es hilft, wenn sie im Prompt die "AUFGABE", "KONTEXT", "ANWEISUNGEN" und "FORMAT DER AUSGABE"  genau definieren.
