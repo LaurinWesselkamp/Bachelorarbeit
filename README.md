@@ -4,11 +4,12 @@
 
 - **Ziel**: Bereite dich mit den vorliegenden Materialien optimal auf den Test vor.
 - **Schritte**:
-  1. Lies dieses Dokument zunächst sorgfältig durch.
-  2. Starte anschließend die Vorbereitungsphase.
-  3. Nutze in der Vorbereitungsphase ausschließlich die Prompt-Ideen und Nutzungsvorschläge für den Chatbot sowie den bereitgestellten Foliensatz.
-  4. Es ist nicht erforderlich, alle Techniken anzuwenden – du kannst dich auch darauf beschränken, eine oder zwei Techniken durchgängig zu nutzen."
-  5. Starte anschließend den Test.
+  1. Liesen Sie dieses Dokument zunächst sorgfältig durch
+  2. Starten Sie anschließend die Vorbereitungsphase.
+  3. Nutzen Sie in der Vorbereitungsphase ausschließlich die Prompt-Ideen und Nutzungsvorschläge für den Chatbot sowie den bereitgestellten Foliensatz.
+  4. Es ist nicht erforderlich, alle Techniken anzuwenden – Sie können sich auch darauf beschränken, eine oder zwei Techniken durchgängig zu nutzen."
+  5. Starten Sie anschließend den Test.
+
 
 # 2. Prompt-Techniken und Nutzungsvorschläge
 
@@ -18,7 +19,7 @@ Im Folgenden werden kurz und bündig passende Prompt-Techniken aus der Forschung
 
 
 ### 2.1 Lass uns Schritt für Schritt nachdenken
- Sprachmodelle machen Fehler. Um diesen vorzubeugen, ist es gerade bei komplexeren Themen nützlich, den Satz: Lass uns Schritt für Schritt nachdenken am Ende eines Prompts hinzuzufügen. Dadurch wird, bevor es zur eigentlichen Antwort des Modells kommt, ein strukturierter Denkprozess beim Modell eingeleitet.
+Studiere fügen am Ende eines Prompts: "Lass uns Schritt für Schritt nachdenken" hinzu. Dadurch wird, bevor es zur eigentlichen Antwort des Modells kommt, ein strukturierter Denkprozess beim Modell eingeleitet, der Fehlern vorbeugt.
 
 *Beispiel*:
 ```text
@@ -27,16 +28,12 @@ Im Folgenden werden kurz und bündig passende Prompt-Techniken aus der Forschung
 
 ---
 
-### Beispiele verwenden
-
-Sprachmodelle lernen ähnlich wie Menschen am besten durch Beispiele. Versuche daher, möglichst ein Beispiel zu geben, das zeigt, in welcher Form der Chatbot antworten soll. Falls du jedoch kein Beispiel hast, ist das selbstverständlich auch kein Problem.
+### Gedankenbaum
+Die Studierenden lassen sich möglichst viele Antwortalternativen aus verschiedenen Perspektiven geben.
 
 *Beispiel*: 
 ```text
-Frage: Erkläre mir die hochgeladene Folie <Name> und bewerte sie nach Schwierigkeit kurz und knapp. 
-Antwort: - Überschrift: Folienüberschrift
-         - Thema: Max. 1-2 Stichpunkte zu dieser Folie
-         - Schwierigkeitseinschätzung: 1-100
+Stelle dir drei verschiedene Experten vor, die diese Frage beantworten. Alle Experten schreiben einen Schritt ihrer Überlegungen auf und teilen ihn dann der Gruppe mit. Dann gehen alle Experten zum nächsten Schritt über, usw. Wenn einer der Experten zu irgendeinem Zeitpunkt merkt, dass er falsch liegt, verlässt er die Gruppe. Die Frage lautet [FRAGE_EINSETZTEN].
 ```
 ---
 
@@ -46,7 +43,7 @@ Die Studierenden lassen sich von ChatGPT Hinweise geben, was sie beim Lösen von
 
 *Beispiel*: 
 ```text
-Wie führe ich eine Literaturrecherche so effizient wie irgend möglich durch? Ich möchte auf gar keinen Fall wichtige Literatur übersehen. Bitte gehe daher bei Deiner Antwort auch sehr ausführlich auf fortgeschrittene Suchtechniken ein.
+Wie führe ich eine [Klausurvorbereitung/ Literaturrecherche] so effizient wie irgend möglich durch? Ich möchte auf gar keinen Fall ein Thema auslassen. Ich habe noch [ZEIT], um mich vorzubereiten. 
 ```
 ---
 ### Selbsttests anfertigen
@@ -55,22 +52,27 @@ Die Studierenden erstellen mit Hilfe von ChatGPT Fragen mit den dazugehörigen A
 
 *Beispiel*: 
 ```text
-Erstelle bitte eine Multiple-Choice-Frage zum Thema [Thema einsetzen] mit fünf Antwortoptionen. Eine der Antwortoptionen muss korrekt sein, die anderen vier sollen falsch sein. Gib zu jeder falschen Antwortoption eine kurze Erklärung, warum sie nicht korrekt ist. Achte darauf, dass das Format wie folgt aussieht:
+Erstelle 5 Multiple-Choice-Fragen basierend auf den Themen im hochgeladenen Foliensatz. Jede Frage soll fünf Antwortoptionen enthalten (eine korrekt, vier falsch). Warte nach jeder Frage auf meine Antwort. Gib mir dann an, ob meine Antwort korrekt war, und erkläre kurz, warum jede der falschen Optionen nicht zutrifft. Gehe anschließend zur nächsten Frage über.
+Format:
 
 Frage: Frage formulieren
 
 - Antwortoptionen:
-    - A) [Antwortoption A]
-    - B) [Antwortoption B]
-    - C) [Antwortoption C]
-    - D) [Antwortoption D]
-    - E) [Antwortoption E]
+    - A) [Antwort A]
+    - B) [Antwort B]
+    - C) [Antwort C]
+    - D) [Antwort D]
+    - E) [Antwort E]
 
-- **Erklärungen zu den falschen Antwortoptionen:**
-    - 
+- Rückmeldung [Korrekt/ Falsch]
+
+- Erklärungen zu den falschen Antwortoptionen:
     -
     -
     -
+    -
+
+Beginne mit Frage 1 un setzte das Schema anschließend so fort.
 ```
 ---
 
@@ -79,9 +81,9 @@ Die Studierenden nutzen ChatGPT zur Festigung der Lerninhalte.
 
 *Beispiel*: 
 ```text
-Deine Rolle in diesem Gespräch besteht darin, als persönlicher Tutor zu agieren. Du übernimmst die Persona eines Universitätsprofessors. Du wirst mit einer einfachen Frage beginnen, und wenn die Antwort korrekt ist, zunehmend komplexere Fragen stellen. Wenn die Frage falsch beantwortet wird, gibst Du Feedback und Hinweise, um bei der Beantwortung der Frage zu helfen. Deine Fragestellung wird auf dem Niveau des Grundstudiums angesiedelt sein.
+Deine Aufgabe ist es, als persönlicher Tutor in der Rolle eines Universitätsprofessors zu agieren. Beginne mit einfachen Fragen und steigere die Komplexität bei korrekten Antworten. Gib bei falschen Antworten Feedback und Hinweise. Die Fragen sollen auf Grundstudiumsniveau sein.
 
-Das Gesprächsthema wird [Dein Thema hier] sein.
+Das Gesprächstthema wird [THEMA_EINSETZTEN] sein.
 ```
 ---
 ### Passende Hilfe erhalten: 
@@ -89,14 +91,17 @@ Die Studierenden nutzen ChatGPT, um sich gezielt Unterstützung im  Selbststudiu
 
 *Beispiel*: 
 ```text
-Ich möchte von Dir beim Lernen unterstützt werden. Damit ich wirklich etwas lerne, möchte ich, dass Du mir immer nur auf dem Niveau Hilfe gibst, dass ich zusammen mit meiner Frage benenne. Die Niveaus der Hilfe sind: 
+Ünterstütze mich beim Lernen des hochgeladenen Foliensatzes. Gebe mir immer nur auf dem Niveau Hilfe, dass ich zusammen mit meiner Frage benenne. Die Niveaus der Hilfe sind:
 
-- Hilfe für die Motivation
-- Hilfe für das Finden von Unterstützungsmöglichkeiten beim Lösen des Problems
-- Hilfe für das Finden der richtigen Lösungsstrategie
-- Hilfe für das Verstehen des konkreten Vorgehens und der einzelnen Lösungsschritte
+- Motivation
 
-Zu Beginn fragst Du mich, für welche Aufgabe ich Hilfe benötige und auf welchem Niveau ich die Hilfe von Dir erhalten möchte. Am Ende von jeder neuen Antwort von Dir fragst Du mich, wobei Du mich unterstützen kannst, und wiederholst Deine Frage nach dem Niveau der gewünschten Hilfe. Bei Deinen Antworten beziehst Du jeweils meine aktuellste Eingabe des Niveaus der Hilfe ein.
+- Finden von Unterstützungsmöglichkeiten beim Lösen des Problems
+
+- Finden der richtigen Lösungsstrategie
+
+- Verstehen des konkreten Vorgehens und der einzelnen Lösungsschritte
+
+Frage zu Beginn, welche Aufgabe ich habe und auf welchem Niveau ich Hilfe möchte. Am Ende von jeder neuen Antwort von Dir fragst Du mich, wobei Du mich unterstützen kannst, und wiederholst Deine Frage nach dem Niveau der gewünschten Hilfe. Bei Deinen Antworten beziehst Du jeweils meine aktuellste Eingabe des Niveaus der Hilfe ein.
 ```
 ---
 ### Der andere Blickwinkel (Reframing) 
@@ -104,7 +109,7 @@ Zu Beginn fragst Du mich, für welche Aufgabe ich Hilfe benötige und auf welche
 Manchmal ist es hilfreich zu erkennen, dass die eigene „Lesart“ einer Situation nicht  die einzig mögliche „Lesart“ ist und dass auch in negativen Situationen Chancen für  einen selbst stecken können. UHH-GPT kann dabei unterstützen.
 *Beispiel*: 
 ```text
-Du bist mein Coach. Deine Aufgabe ist es immer, das, was ich Dir sage, so  umzuformulieren, dass ich die Situation in einem anderen Licht sehen kann. Vermeide  dabei Ratschläge und belasse es bei dem Reframing der Situation.
+Du bist mein Coach. Deine Aufgabe ist es immer, das, was ich Dir sage, so umzuformulieren, dass ich die Situation in einem anderen Licht sehen kann. Vermeide dabei Ratschläge und belasse es bei dem Reframing der Situation.
 ```
 
 ## 2.3 Weitere Hinweise
@@ -124,11 +129,36 @@ Versuche dich bei Fragen immer auf den hochgeladenen Foliensatz zu beziehen. Cha
 
 *Beispiel*: 
 ```text  
-Erstelle mir eine Multiple-Choice-Frage zur Folie 7 aus dem Foliensatz.
+Erstelle mir eine Multiple-Choice-Frage zur Folie [FOLIENÜBERSCHRIFT] aus dem Foliensatz.
+```
+
+### Schemas helfen ChatGPT
+ChatGPT bekommt ein besseres Verständnis von ihrer Anfrage, wenn ihr Prompt klar strukturiert ist. Es hilft, wenn sie im Prompt die "AUFGABE", "KONTEXT", "ANWEISUNGEN" und "FORMAT DER AUSGABE"  genau definieren.
+
+_Dies ist zu Anfang ggf. schwierig, da nicht für alle Punkte vollständige Informationen vorliegen._
+_Beispiel:_
+```
+AUFGABE: Erstelle eine Multiple-Choice-Question basierend auf der Folie zum Thema [THEMA_EINSETZTEN].
+
+KONTEXT: Der Foliensatz handelt von [THEMA]
+
+ANWEISUNGEN: 
+- Es gibt 5 Antwortmöglichkeiten
+- 1 korrekt, 4 flasch
+
+FORMAT DER AUSGABE:
+Frage: Frage formulieren
+- Antwortoptionen:
+    - A) [Antwort A]
+    - B) [Antwort B]
+    - C) [Antwort C]
+    - D) [Antwort D]
+    - E) [Antwort E]
+- Rückmeldung [Korrekt/ Falsch]
+
 ```
 
 ## Abschließender Nutzungshinweis des Workbooks
 Damit du dich schnell an die Prompt Nutzung gewöhnst, hier einmal ein Beispiel, wie die Benutzung gleich aussehen soll. Kopiere die Prompts dabei einfach immer mittels des "Copy" Button ganz rechts innerhalb des Kastens. Setzte es in des Promptfeld des ChatBots ein, passe es an und schicke es ab.
 
 [![Video ansehen](https://img.youtube.com/vi/z_QMHP12ocI/0.jpg)](https://youtu.be/z_QMHP12ocI)
-
