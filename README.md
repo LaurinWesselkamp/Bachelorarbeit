@@ -178,6 +178,6 @@ Falls Ihnen ChatGPT lediglich falsche unpassende Antworten liefert und trotz meh
 ---
 
 ## Abschließender Nutzungshinweis des Workbooks
-Damit du dich schnell an die Prompt Nutzung gewöhnst, hier einmal ein Beispiel, wie die Benutzung gleich aussehen soll. Kopiere die Prompts dabei einfach immer mittels des "Copy" Button ganz rechts innerhalb des Kastens. Setzte es in des Promptfeld des ChatBots ein, passe es an und schicke es ab.
+Damit Sie sich schnell mit der Nutzung von Prompts vertraut machen, hier ein Beispiel zur Vorgehensweise: Kopieren Sie die Prompts einfach über den "Copy"-Button auf der rechten Seite des Kastens, fügen Sie diese in das Eingabefeld des Chatbots ein, passen Sie sie gegebenenfalls an und senden Sie sie ab.
 
 [![Video ansehen](https://img.youtube.com/vi/z_QMHP12ocI/0.jpg)](https://youtu.be/z_QMHP12ocI)
