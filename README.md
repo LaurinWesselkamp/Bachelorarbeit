@@ -135,7 +135,7 @@ Lass uns Schritt für Schritt nachdenken. Du beginnst damit zu fragen, welches T
 
 Beende deine Rolle nach 3 Interaktionen und gebe dem Benutzer Feedback: Wie gut waren die Erklärungen? Wo war sie klar und wo gab es Verbesserungsbedarf?
 ```
-> [!NOTE]Achtung!
+> Achtung!
 > Falls ChatGPT beginnt irrelevante Fragen zu stellen, hilft es dem Modell einen Hinweis zu geben.
 > ```text
 > Lass uns wieder zum Thema zurückkehren und [THEMA] betrachten.
