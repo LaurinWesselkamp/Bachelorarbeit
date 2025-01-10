@@ -137,6 +137,8 @@ Beende deine Rolle nach 3 Interaktionen und gebe dem Benutzer Feedback: Wie gut 
 ```
 > Achtung!
 > Falls ChatGPT beginnt irrelevante Fragen zu stellen, hilft es dem Modell einen Hinweis zu geben.
+>
+> *Beispiel*:
 > ```text
 > Lass uns wieder zum Thema zurückkehren und [THEMA] betrachten.
 > ```
