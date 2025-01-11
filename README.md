@@ -4,20 +4,18 @@
 
 - **Ziel**: Bereiten Sie sich mit den vorliegenden Materialien optimal auf den Test vor.
 - **Schritte**:
-  1. Liesen Sie dieses Dokument zunächst sorgfältig durch. Es beinhaltet zum einen in Kapitel 2 praktisch anwendbare Prompt-Techniken aus der Forschung. Dabei handelt es sich um Prompts die direkt auf die Klausurvorbereitung mit ChatGPT zugeschnitten sind, insbesondere auf einen Multiple-Choice-Test. Zum anderen werden in Kapitel 3 Weitere Hinweise zur Benutzung mit ChatGPT gegeben, die bei der Verwendung beachtet werden sollen.
+  1. Liesen Sie dieses Dokument zunächst sorgfältig durch. Es beinhaltet zum einen in Kapitel 2 praktisch anwendbare Prompt-Techniken aus der Forschung. Dabei handelt es sich um Prompts (Eingabeaufforderungen) die direkt auf die Klausurvorbereitung mit ChatGPT zugeschnitten sind, insbesondere auf einen Multiple-Choice-Test. Zum anderen werden in Kapitel 3 Weitere Hinweise zur Benutzung mit ChatGPT gegeben, die bei der Verwendung beachtet werden sollen.
   2. Starten Sie anschließend die Vorbereitungsphase.
   3. Nutzen Sie in der Vorbereitungsphase ausschließlich die Prompt-Ideen und Nutzungsvorschläge für den Chatbot sowie den bereitgestellten Foliensatz.
   4. Es ist nicht erforderlich, alle Techniken anzuwenden – Sie können sich auch darauf beschränken, eine oder zwei Techniken durchgängig zu nutzen.
   5. Starten Sie anschließend den Test.
 
 
-# 2. Prompt-Techniken und Nutzungsvorschläge
+## 2. Prompt-Techniken aus der Forschung
 
-Im Folgenden werden für die Klausurvorbereitung passende Prompt-Techniken für ChatGPT aus der Forschung erläutert. Abschließend werden weitere Hinweise zur Benutzung von ChatGPT gegeben.
+Im Folgenden werden für die Klausurvorbereitung passende Prompt-Techniken für ChatGPT aus der Forschung erläutert. Sie können direkt in das Promptfenster von ChatGPT eingegeben werden und sind für die unmittelbare Anwendung konzipiert.
 
-## 2.1 Prompt-Techniken aus der Forschung
-
-### 2.1.1 Lass uns Schritt für Schritt nachdenken
+### 2.1 Lass uns Schritt für Schritt nachdenken
 Studiere fügen am Ende eines Prompts: "Lass uns Schritt für Schritt nachdenken" hinzu. Dadurch wird, bevor es zur eigentlichen Antwort des Modells kommt, ein strukturierter Denkprozess beim Modell eingeleitet, der Fehlern vorbeugt.
 
 *Beispiel*:
@@ -27,7 +25,7 @@ Studiere fügen am Ende eines Prompts: "Lass uns Schritt für Schritt nachdenken
 
 ---
 
-### 2.1.2 Gedankenbaum
+### 2.2 Gedankenbaum
 Die Studierenden lassen sich möglichst viele Antwortalternativen aus verschiedenen Perspektiven geben.
 
 *Beispiel*: 
@@ -37,7 +35,7 @@ Stelle dir drei verschiedene Experten vor, die diese Frage beantworten. Alle Exp
 
 ---
 
-### 2.1.3 Hinweise zum Vorgehen bereitstellen
+### 2.3 Hinweise zum Vorgehen bereitstellen
 
 Die Studierenden lassen sich von ChatGPT Hinweise geben, was sie beim Lösen von bestimmten Aufgaben beachten sollten.
 
@@ -48,7 +46,7 @@ Du übernimmst die Rolle eines Planers. Ich möchte eine Klausurvorbereitung so 
 
 ---
 
-### 2.1.4 Selbsttests anfertigen
+### 2.4 Selbsttests anfertigen
 
 Die Studierenden erstellen mit Hilfe von ChatGPT Fragen mit den dazugehörigen Antwortoptionen und Erläuterungen zu den falschen Antwortoptionen. Dabei geben sie ein bestimmtes Format vor.
 
@@ -78,7 +76,7 @@ Beginne mit Frage 1 und setzte das Schema anschließend so fort.
 
 ---
 
-### 2.1.5 Lerninhalte festigen
+### 2.5 Lerninhalte festigen
 Die Studierenden nutzen ChatGPT zur Festigung der Lerninhalte.
 
 *Beispiel*: 
@@ -90,7 +88,7 @@ Das Gesprächstthema wird [THEMA_EINSETZTEN] sein.
 
 ---
 
-### 2.1.6 Passende Hilfe erhalten: 
+### 2.6 Passende Hilfe erhalten: 
 Die Studierenden nutzen ChatGPT, um sich gezielt Unterstützung im  Selbststudium zu holen. Dabei reflektieren sie bewusst, auf welchem Niveau sie die  Unterstützung benötigen und holen sich nur die Menge an Unterstützung, die sie  wirklich benötigen.
 
 *Beispiel*: 
@@ -111,7 +109,7 @@ Frage zu Beginn, welche Aufgabe ich habe und auf welchem Niveau ich Hilfe möcht
 
 ---
 
-### 2.1.7 Der andere Blickwinkel (Reframing) 
+### 2.7 Der andere Blickwinkel (Reframing) 
 
 Manchmal ist es hilfreich zu erkennen, dass die eigene „Lesart“ einer Situation nicht die einzig mögliche „Lesart“ ist und dass auch in negativen Situationen Chancen für einen selbst stecken können. ChatGPT kann dabei unterstützen.
 
@@ -124,7 +122,7 @@ Deine Antworten sollen kurz und prägnant sein, maximal 3 Sätze umfassen und ne
 
 ---
 
-### 2.1.8 Erkläre es ChatGPT 
+### 2.8 Erkläre es ChatGPT 
 Die Studierenden nehmen die Rolle des Lehrenden ein und erklären ChatGPT in der Rolle eines Schülers ein Thema ihrer Wahl.
 
 *Beispiel*:
@@ -145,7 +143,9 @@ Beende deine Rolle nach 3 Interaktionen und gebe dem Benutzer Feedback: Wie gut 
 
 ---
 
-## 2.3 Weitere Hinweise
+## 3. Weitere Hinweise
+
+Abschließend werden weitere Hinweise zur Benutzung von ChatGPT gegeben.
 
 ### ChatGPT ist ein Werkzeug,‚ kein allwissendes Wesen
 Betrachten Sie ChatGPT niemals als allwissenden Menschen, mit einem „Bewusstsein“. Das Sprachmodell kann nicht zwischen „richtig“ und „falsch“ unterscheiden und neigt unter Umständen dazu, sich etwas „auszudenken“ ("halluzinieren"). Insbesondere, wenn man selbst noch wenig Wissen zu einem Thema hat, ist es sinvoll, die Antworten von ChatGPT immer als Hypothese zu betrachten.
@@ -158,12 +158,12 @@ Erkläre bei jeder Antwort die zugrunde liegende Logik, Annahmen und Quellen, da
 
 ---
 
-### ChatGPT ist kein Zusammenfassungstool
+### 3.1 ChatGPT ist kein Zusammenfassungstool
 Bedingt durch die Halluzination und die Unkenntnis über das Thema des Test, wird darum gebeten ChatGPT nicht als Zusammenfassungstool zu verwenden, da keine Garantie vorliegt, dass die generierten Inhalte frei von Fehlern oder Erfindungen sind.
 
 ---
 
-### ChatGPT braucht domänenspezifischen Inhalt 
+### 3.2 ChatGPT braucht domänenspezifischen Inhalt 
 Versuchen Sie sich bei Fragen immer auf den hochgeladenen Foliensatz zu beziehen. ChatGPT hat ein großes Konglumerat an Wissen. Für den bevorstehenden Test, ist jedoch vor allem das Wissen aus dem Foliensatz relevant.
 
 *Beispiel*: 
@@ -172,12 +172,12 @@ Erstelle mir eine Multiple-Choice-Frage zur Folie [FOLIENÜBERSCHRIFT] aus dem F
 ```
 ---
 
-###  ChatGPT Neustart bei wiederholt unpassenden Antworten
+### 3.3 ChatGPT Neustart bei wiederholt unpassenden Antworten
 Falls Ihnen ChatGPT lediglich falsche unpassende Antworten liefert und trotz mehrmaliger Aufforderung zur Überarbeitung nichts an den anderen Antworten ändert, ist es sinnvoll einen neuen Chat zu starten und die Konversation erneut zu starten. 
 
 ---
 
-## Abschließender Nutzungshinweis des Workbooks
+## 4. Abschließender Nutzungshinweis des Workbooks
 Damit Sie sich schnell mit der Nutzung von Prompts vertraut machen, hier ein Beispiel zur Vorgehensweise: Kopieren Sie die Prompts einfach über den "Copy"-Button auf der rechten Seite des Kastens, fügen Sie diese in das Eingabefeld des Chatbots ein, passen Sie sie gegebenenfalls an und senden Sie sie ab.
 
 [![Video ansehen](https://img.youtube.com/vi/z_QMHP12ocI/0.jpg)](https://youtu.be/z_QMHP12ocI)
