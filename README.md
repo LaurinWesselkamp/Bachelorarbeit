@@ -149,6 +149,8 @@ Beende deine Rolle nach 3 Interaktionen und gebe dem Benutzer Feedback: Wie gut 
 
 Abschließend werden weitere Hinweise zur Benutzung von ChatGPT gegeben.
 
+---
+
 ### ChatGPT ist ein Werkzeug,‚ kein allwissendes Wesen
 Betrachten Sie ChatGPT niemals als allwissenden Menschen, mit einem „Bewusstsein“. Das Sprachmodell kann nicht zwischen „richtig“ und „falsch“ unterscheiden und neigt unter Umständen dazu, sich etwas „auszudenken“ ("halluzinieren"). Insbesondere, wenn man selbst noch wenig Wissen zu einem Thema hat, ist es sinvoll, die Antworten von ChatGPT immer als Hypothese zu betrachten.
 Sie können versuchen bei konkreten Korrekt-Flasch-Fragen, das Model dazu anregen sich selbst zu reflektieren. Dennoch ist ChatGPT immer kritisch zu betrachten.
