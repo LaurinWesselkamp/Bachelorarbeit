@@ -2,9 +2,9 @@
 
 # 1. Hinweise zum Vorgehen
 
-- **Ziel**: Bereite dich mit den vorliegenden Materialien optimal auf den Test vor.
+- **Ziel**: Bereiten Sie sich mit den vorliegenden Materialien optimal auf den Test vor.
 - **Schritte**:
-  1. Liesen Sie dieses Dokument zunächst sorgfältig durch
+  1. Liesen Sie dieses Dokument zunächst sorgfältig durch. Es beinhaltet zum einen in Kapitel 2 praktisch anwendbare Prompt-Techniken aus der Forschung. Dabei handelt es sich um Prompts die direkt auf die Klausurvorbereitung mit ChatGPT zugeschnitten sind, insbesondere auf einen Multiple-Choice-Test. Zum anderen werden in Kapitel 3 Weitere Hinweise zur Benutzung mit ChatGPT gegeben, die bei der Verwendung beachtet werden sollen.
   2. Starten Sie anschließend die Vorbereitungsphase.
   3. Nutzen Sie in der Vorbereitungsphase ausschließlich die Prompt-Ideen und Nutzungsvorschläge für den Chatbot sowie den bereitgestellten Foliensatz.
   4. Es ist nicht erforderlich, alle Techniken anzuwenden – Sie können sich auch darauf beschränken, eine oder zwei Techniken durchgängig zu nutzen.
@@ -13,11 +13,11 @@
 
 # 2. Prompt-Techniken und Nutzungsvorschläge
 
-Im Folgenden werden kurz und bündig passende Prompt-Techniken aus der Forschung erläutert. Anschließend folgen spezifische Affordanzen der Chatbots für die Klausurvorbereitung aus der Praxis. Abschließend werden weitere Hinweise zur Benutzung gegeben.
+Im Folgenden werden für die Klausurvorbereitung passende Prompt-Techniken für ChatGPT aus der Forschung erläutert. Abschließend werden weitere Hinweise zur Benutzung von ChatGPT gegeben.
 
 ## 2.1 Prompt-Techniken aus der Forschung
 
-### 2.1 Lass uns Schritt für Schritt nachdenken
+### 2.1.1 Lass uns Schritt für Schritt nachdenken
 Studiere fügen am Ende eines Prompts: "Lass uns Schritt für Schritt nachdenken" hinzu. Dadurch wird, bevor es zur eigentlichen Antwort des Modells kommt, ein strukturierter Denkprozess beim Modell eingeleitet, der Fehlern vorbeugt.
 
 *Beispiel*:
@@ -27,7 +27,7 @@ Studiere fügen am Ende eines Prompts: "Lass uns Schritt für Schritt nachdenken
 
 ---
 
-### Gedankenbaum
+### 2.1.2 Gedankenbaum
 Die Studierenden lassen sich möglichst viele Antwortalternativen aus verschiedenen Perspektiven geben.
 
 *Beispiel*: 
@@ -37,7 +37,7 @@ Stelle dir drei verschiedene Experten vor, die diese Frage beantworten. Alle Exp
 
 ---
 
-### Hinweise zum Vorgehen bereitstellen
+### 2.1.3 Hinweise zum Vorgehen bereitstellen
 
 Die Studierenden lassen sich von ChatGPT Hinweise geben, was sie beim Lösen von bestimmten Aufgaben beachten sollten.
 
@@ -48,7 +48,7 @@ Du übernimmst die Rolle eines Planers. Ich möchte eine Klausurvorbereitung so 
 
 ---
 
-### Selbsttests anfertigen
+### 2.1.4 Selbsttests anfertigen
 
 Die Studierenden erstellen mit Hilfe von ChatGPT Fragen mit den dazugehörigen Antwortoptionen und Erläuterungen zu den falschen Antwortoptionen. Dabei geben sie ein bestimmtes Format vor.
 
@@ -78,7 +78,7 @@ Beginne mit Frage 1 und setzte das Schema anschließend so fort.
 
 ---
 
-### Lerninhalte festigen
+### 2.1.5 Lerninhalte festigen
 Die Studierenden nutzen ChatGPT zur Festigung der Lerninhalte.
 
 *Beispiel*: 
@@ -90,7 +90,7 @@ Das Gesprächstthema wird [THEMA_EINSETZTEN] sein.
 
 ---
 
-### Passende Hilfe erhalten: 
+### 2.1.6 Passende Hilfe erhalten: 
 Die Studierenden nutzen ChatGPT, um sich gezielt Unterstützung im  Selbststudium zu holen. Dabei reflektieren sie bewusst, auf welchem Niveau sie die  Unterstützung benötigen und holen sich nur die Menge an Unterstützung, die sie  wirklich benötigen.
 
 *Beispiel*: 
@@ -111,7 +111,7 @@ Frage zu Beginn, welche Aufgabe ich habe und auf welchem Niveau ich Hilfe möcht
 
 ---
 
-### Der andere Blickwinkel (Reframing) 
+### 2.1.7 Der andere Blickwinkel (Reframing) 
 
 Manchmal ist es hilfreich zu erkennen, dass die eigene „Lesart“ einer Situation nicht die einzig mögliche „Lesart“ ist und dass auch in negativen Situationen Chancen für einen selbst stecken können. ChatGPT kann dabei unterstützen.
 
@@ -124,7 +124,7 @@ Deine Antworten sollen kurz und prägnant sein, maximal 3 Sätze umfassen und ne
 
 ---
 
-### Erkläre es ChatGPT 
+### 2.1.8 Erkläre es ChatGPT 
 Die Studierenden nehmen die Rolle des Lehrenden ein und erklären ChatGPT in der Rolle eines Schülers ein Thema ihrer Wahl.
 
 *Beispiel*:
