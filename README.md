@@ -151,7 +151,7 @@ Abschließend werden weitere Hinweise zur Benutzung von ChatGPT gegeben.
 
 ---
 
-### ChatGPT ist ein Werkzeug,‚ kein allwissendes Wesen
+### 3.1 ChatGPT ist ein Werkzeug,‚ kein allwissendes Wesen
 Betrachten Sie ChatGPT niemals als allwissenden Menschen, mit einem „Bewusstsein“. Das Sprachmodell kann nicht zwischen „richtig“ und „falsch“ unterscheiden und neigt unter Umständen dazu, sich etwas „auszudenken“ ("halluzinieren"). Insbesondere, wenn man selbst noch wenig Wissen zu einem Thema hat, ist es sinvoll, die Antworten von ChatGPT immer als Hypothese zu betrachten.
 Sie können versuchen bei konkreten Korrekt-Flasch-Fragen, das Model dazu anregen sich selbst zu reflektieren. Dennoch ist ChatGPT immer kritisch zu betrachten.
 
@@ -162,12 +162,12 @@ Erkläre bei jeder Antwort die zugrunde liegende Logik, Annahmen und Quellen, da
 
 ---
 
-### 3.1 ChatGPT ist kein Zusammenfassungstool
+### 3.2 ChatGPT ist kein Zusammenfassungstool
 Bedingt durch die Halluzination und die Unkenntnis über das Thema des Test, wird darum gebeten ChatGPT nicht als Zusammenfassungstool zu verwenden, da keine Garantie vorliegt, dass die generierten Inhalte frei von Fehlern oder Erfindungen sind.
 
 ---
 
-### 3.2 ChatGPT braucht domänenspezifischen Inhalt 
+### 3.3 ChatGPT braucht domänenspezifischen Inhalt 
 Versuchen Sie sich bei Fragen immer auf den hochgeladenen Foliensatz zu beziehen. ChatGPT hat ein großes Konglumerat an Wissen. Für den bevorstehenden Test, ist jedoch vor allem das Wissen aus dem Foliensatz relevant.
 
 *Beispiel*: 
@@ -176,7 +176,7 @@ Erstelle mir eine Multiple-Choice-Frage zur Folie [FOLIENÜBERSCHRIFT] aus dem F
 ```
 ---
 
-### 3.3 ChatGPT Neustart bei wiederholt unpassenden Antworten
+### 3.4 ChatGPT Neustart bei wiederholt unpassenden Antworten
 Falls Ihnen ChatGPT lediglich falsche unpassende Antworten liefert und trotz mehrmaliger Aufforderung zur Überarbeitung nichts an den anderen Antworten ändert, ist es sinnvoll einen neuen Chat zu starten und die Konversation erneut zu starten. 
 
 ---
