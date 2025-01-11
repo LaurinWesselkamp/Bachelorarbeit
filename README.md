@@ -163,7 +163,7 @@ Erkläre bei jeder Antwort die zugrunde liegende Logik, Annahmen und Quellen, da
 ---
 
 ### 3.2 ChatGPT ist kein Zusammenfassungstool
-Bedingt durch die Halluzination und die Unkenntnis über das Thema des Test, wird darum gebeten ChatGPT nicht als Zusammenfassungstool zu verwenden, da keine Garantie vorliegt, dass die generierten Inhalte frei von Fehlern oder Erfindungen sind.
+Bedingt durch die Halluzination und die Unkenntnis über das Thema des Tests, wird darum gebeten ChatGPT nicht als Zusammenfassungstool für den Foliensatz zu verwenden, da keine Garantie vorliegt, dass die generierten Inhalte frei von Fehlern oder Erfindungen sind.
 
 ---
 
