@@ -169,7 +169,7 @@ Bedingt durch die Halluzination und die Unkenntnis über das Thema des Tests, wi
 ---
 
 ### 3.3 ChatGPT braucht domänenspezifischen Inhalt 
-Versuchen Sie sich bei Fragen immer auf den hochgeladenen Foliensatz zu beziehen. ChatGPT hat ein großes Konglumerat an Wissen. Für den bevorstehenden Test, ist jedoch vor allem das Wissen aus dem Foliensatz relevant.
+Versuchen Sie sich bei Fragen immer auf den hochgeladenen Foliensatz zu beziehen. ChatGPT hat ein großes Konglomerat an Wissen. Für den bevorstehenden Test, ist jedoch vor allem das Wissen aus dem Foliensatz relevant.
 
 *Beispiel*: 
 ```text  
