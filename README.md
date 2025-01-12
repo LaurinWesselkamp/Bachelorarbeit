@@ -19,7 +19,7 @@ Im Folgenden werden für die Klausurvorbereitung passende Prompt-Techniken für 
 ---
 
 ### 2.1 Lass uns Schritt für Schritt nachdenken
-Studiere fügen am Ende eines Prompts: "Lass uns Schritt für Schritt nachdenken" hinzu. Dadurch wird, bevor es zur eigentlichen Antwort des Modells kommt, ein strukturierter Denkprozess beim Modell eingeleitet, der Fehlern vorbeugt.
+Studierende fügen am Ende eines Prompts: "Lass uns Schritt für Schritt nachdenken" hinzu. Dadurch wird, bevor es zur eigentlichen Antwort des Modells kommt, ein strukturierter Denkprozess beim Modell eingeleitet, der Fehlern vorbeugt.
 
 *Beispiel*:
 ```text
