@@ -3,12 +3,13 @@
 # 1. Hinweise zum Vorgehen
 
 - **Ziel**: Bereiten Sie sich mit den vorliegenden Materialien optimal auf den Test vor.
-- **Schritte**:
-  1 . Lesen Sie dieses Dokument zunächst sorgfältig durch. Es beinhaltet zum einen in Kapitel 2 praktisch anwendbare Prompt-Techniken aus der Forschung. Dabei handelt es sich um Prompts (Eingabeaufforderungen) die direkt auf die Klausurvorbereitung mit ChatGPT zugeschnitten sind, insbesondere auf einen Multiple-Choice-Test. Zum anderen werden in Kapitel 3 Weitere Hinweise zur Benutzung mit ChatGPT gegeben, die bei der Verwendung beachtet werden sollen.
-  2 . Starten Sie anschließend die Vorbereitungsphase.
-  3 . Nutzen Sie in der Vorbereitungsphase ausschließlich die Prompt-Ideen und Nutzungsvorschläge für den Chatbot sowie den bereitgestellten Foliensatz.
-  4 . Es ist nicht erforderlich, alle Techniken anzuwenden – Sie können sich auch darauf beschränken, eine oder zwei Techniken durchgängig zu nutzen.
-  5 . Starten Sie anschließend den Test.
+
+**Schritte**:
+1. Lesen Sie dieses Dokument zunächst sorgfältig durch. Es beinhaltet zum einen in Kapitel 2 praktisch anwendbare Prompt-Techniken aus der Forschung. Dabei handelt es sich um Prompts (Eingabeaufforderungen) die direkt auf die Klausurvorbereitung mit ChatGPT zugeschnitten sind, insbesondere auf einen Multiple-Choice-Test. Zum anderen werden in Kapitel 3 Weitere Hinweise zur Benutzung mit ChatGPT gegeben, die bei der Verwendung beachtet werden sollen.
+2. Starten Sie anschließend die Vorbereitungsphase.
+3. Nutzen Sie in der Vorbereitungsphase ausschließlich die Prompt-Ideen und Nutzungsvorschläge für den Chatbot sowie den bereitgestellten Foliensatz.
+4. Es ist nicht erforderlich, alle Techniken anzuwenden – Sie können sich auch darauf beschränken, eine oder zwei Techniken durchgängig zu nutzen.
+5. Starten Sie anschließend den Test.
 
 
 ## 2. Prompt-Techniken aus der Forschung
